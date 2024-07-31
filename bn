@@ -6,7 +6,7 @@ partial default alphanumeric_keys
 xkb_symbols "basic" {
 name[Group1]= "Bangla (Unijoy)";
 
-key <TLDE> { [ 0x100200c, 0x100200d,  0x100200b,  voidsymbol ]  };
+key <TLDE> { [ 0x100200d, 0x100200c,  0x100200b,  voidsymbol ]  };
 key <AE01> { [ 0x10009e7, 0x1000021,  0x10009f4,  voidsymbol ]  };
 key <AE02> { [ 0x10009e8, 0x1000040,  0x10009f5,  voidsymbol ]  };
 key <AE03> { [ 0x10009e9, 0x1000023,  0x10009f6,  voidsymbol ]  };
